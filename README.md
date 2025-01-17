@@ -1,2 +1,3 @@
 # Internet-speed-bot-
-Bot complains on X everytime your internet speed goes down
+Bot which complains on X everytime your internet speed is lesser than advertised
+
