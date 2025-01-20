@@ -1,3 +1,2 @@
 # Internet-speed-bot-
-Bot which complains on X everytime your internet speed is lesser than advertised
-
+Gives you your internet speed and tells you if its lower than the speeed you paid for or not.
